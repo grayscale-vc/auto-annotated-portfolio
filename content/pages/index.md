@@ -42,6 +42,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      Join us as we build the future of GenAI from Namma Bengaluru!
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
