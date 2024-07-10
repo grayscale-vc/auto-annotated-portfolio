@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: Join Whatsapp
         altText: ''
         url: 'https://chat.whatsapp.com/F1RMSx8W2O8KbMOmu87rlz'
         showIcon: false
