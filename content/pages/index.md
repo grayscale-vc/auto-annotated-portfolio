@@ -41,7 +41,16 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://chat.whatsapp.com/F1RMSx8W2O8KbMOmu87rlz'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: |
       Join us as we build the future of GenAI from Namma Bengaluru!
   - colors: colors-f
