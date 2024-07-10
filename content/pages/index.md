@@ -46,7 +46,7 @@ sections:
         label: Join Whatsapp
         altText: Join Whatsapp
         url: 'https://chat.whatsapp.com/F1RMSx8W2O8KbMOmu87rlz'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
