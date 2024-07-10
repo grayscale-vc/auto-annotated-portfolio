@@ -44,7 +44,7 @@ sections:
     actions:
       - type: Button
         label: Join Whatsapp
-        altText: ''
+        altText: Join Whatsapp
         url: 'https://chat.whatsapp.com/F1RMSx8W2O8KbMOmu87rlz'
         showIcon: false
         icon: arrowRight
